@@ -1,5 +1,5 @@
 {
-    "name": "boone-studios/laravel-surrealdb",
+    "name": "jamessc0tt/laravel-surrealdb",
     "description": "Integrates SurrealDB with the Laravel framework",
     "license": "MIT",
     "type": "library",
